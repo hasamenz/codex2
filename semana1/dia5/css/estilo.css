@@ -1,0 +1,35 @@
+
+body{
+    background-image: url("../img/pexels-james-wheeler-2801241.jpg");
+}
+img{
+    width: 350px;
+    border-radius: 4;
+    margin-left: 70px;   
+}
+img :hover{
+    width: 480px;
+}
+
+.soy{
+    background: yellow;
+    text-align: center;
+    width: 600px;
+    height: 50px;
+}
+.descripcion{
+    width: 600px;
+    height: 50px;
+    background-color: rgb(97, 221, 97);
+    text-align: center;
+
+}
+.fin{
+    background: rgb(212, 78, 78);
+    text-align: center;
+}
+
+.year{
+    text
+
+}

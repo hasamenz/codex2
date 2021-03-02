@@ -1,0 +1,15 @@
+.principal{
+    width: 400px;
+    border-radius: 300px;
+}
+header{
+    text-align: center;
+}
+.navegacion{
+    list-style-type: none;
+    text-align: center;
+    display: inline;
+}
+li{
+    display: block;
+}
